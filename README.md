@@ -58,9 +58,9 @@
 
 <div align="center">
 
-![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikarimemad&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikarimemad&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -70,11 +70,32 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ikarimemad&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=ikarimemad&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ikarimemad&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ikarimemad&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
 
 ## 🎥 My YouTube Channel
 
